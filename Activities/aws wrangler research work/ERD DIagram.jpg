@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2024-07-08T13:04:47.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="tCGe0A7d8mA5Ju1KKykE" version="24.6.4" type="device">
+  <diagram name="Page-1" id="gn7uHq2zbuucJdgThHJ-">
+    <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B9Cx9uZSE9tQ4qiycREM-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;TechCatalyst.Public&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ins_accident_type&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ins_body_style&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ins_policyholder&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ins_gender_marital_status&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ins_states&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ins_vehicle_use&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="B9Cx9uZSE9tQ4qiycREM-3" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;TechCatalyst.Personal schema&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;accident_type&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;body_style&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;policyholder&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;gender_marital_status&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;states&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;vehicle_use&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="B9Cx9uZSE9tQ4qiycREM-4" value="&lt;div&gt;Insert into personal schema through Joins to insert into one big facts accidents table&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="500" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="B9Cx9uZSE9tQ4qiycREM-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=62;rounded=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="150" y="450" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="B9Cx9uZSE9tQ4qiycREM-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="150" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
